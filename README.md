@@ -2,8 +2,7 @@
 portfolio website source code
 
 # Features
-Fully Responsive
--
+- Fully Responsive
 -
 -
 -
